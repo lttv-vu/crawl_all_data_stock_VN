@@ -1,11 +1,11 @@
 ,ticker,price,priceChange,priceChangeRatio,priceChangeRatio1W,priceChangeRatio1M,id,title,source,publishDate
-0,VIC,43650,50,0.001,-0.011,-0.009,11046065,VIC:  Thông báo thay đổi giấy chứng nhận ĐKDN lần thứ 73,HOSE,2024-01-11 14:55:00
-1,VIC,44100,-50,-0.001,-0.011,0.03,11041081,VIC:  CBTT Nghị quyết HĐQT thông qua tăng vốn điều lệ,HOSE,2024-01-05 18:17:00
-2,VIC,44150,150,0.003,0.013,0.028,11038413,Quỹ đầu tư tại Mỹ sẽ rót 100 triệu USD vào cổ phiếu VinFast qua trái phiếu chuyển đổi và công ty riêng của tỷ phú Phạm Nhật Vượng,CafeF,2024-01-03 21:09:00
-3,VIC,44600,150,0.003,0.034,0.048,11035576,VIC:  HĐQT phê duyệt giao dịch với bên liên quan năm 2024,HOSE,2023-12-29 18:24:00
-4,VIC,43150,-50,-0.001,-0.013,0.027,11028728,Con trai tỷ phú Phạm Nhật Vượng chính thức sở hữu cổ phiếu Vingroup,CafeF,2023-12-22 18:47:00
-5,VIC,43150,-50,-0.001,-0.013,0.027,11028676,"VIC:  Báo cáo kết quả giao dịch cổ phiếu ESOP của Người nội bộ Nguyễn Thị Thu Hiền, Phạm Thu Hương, Phạm Thúy Hằng, Phạm Văn Khương",HOSE,2023-12-22 17:56:00
-6,VIC,43150,-50,-0.001,-0.013,0.027,11028678,"VIC:  Báo cáo kết quả giao dịch cổ phiếu ESOP của Người nội bộ Dương Thị Hoàn, Mai Hương Nội, Nguyễn Diệu Linh, Nguyễn Thế Anh, Nguyễn Việt Quang",HOSE,2023-12-22 17:56:00
-7,VIC,43150,-50,-0.001,-0.013,0.027,11028679,VIC:  Báo cáo kết quả phát hành cổ phiếu ESOP,HOSE,2023-12-22 17:49:00
-8,VIC,43150,-50,-0.001,-0.013,0.027,11028677,"VIC:  Báo cáo kết quả giao dịch cổ phiếu ESOP của người có liên quan đến Người nội bộ Phạm Nhật Quân Anh, Dương Thị Hằng, Mai Thu Thủy, Nguyễn Quốc Thành, Phạm Hồng Linh",HOSE,2023-12-22 17:33:00
-9,VIC,43200,-500,-0.011,-0.019,0.012,11023133,"VIC phát hành 9,88 triệu cổ phiếu ESOP",VNE,2023-12-18 09:27:00
+0,VIC,,,,,,11055221,Vingroup đang tiến hành giải phóng mặt bằng 3 dự án tổng vốn đầu tư 19.000 tỷ tại Tuyên Quang,CafeF,2024-01-20 10:28:00
+1,VIC,43650.0,50.0,0.001,-0.011,-0.009,11046065,VIC:  Thông báo thay đổi giấy chứng nhận ĐKDN lần thứ 73,HOSE,2024-01-11 14:55:00
+2,VIC,44100.0,-50.0,-0.001,-0.011,0.03,11041081,VIC:  CBTT Nghị quyết HĐQT thông qua tăng vốn điều lệ,HOSE,2024-01-05 18:17:00
+3,VIC,44150.0,150.0,0.003,0.013,0.028,11038413,Quỹ đầu tư tại Mỹ sẽ rót 100 triệu USD vào cổ phiếu VinFast qua trái phiếu chuyển đổi và công ty riêng của tỷ phú Phạm Nhật Vượng,CafeF,2024-01-03 21:09:00
+4,VIC,44600.0,150.0,0.003,0.034,0.048,11035576,VIC:  HĐQT phê duyệt giao dịch với bên liên quan năm 2024,HOSE,2023-12-29 18:24:00
+5,VIC,43150.0,-50.0,-0.001,-0.013,0.027,11028728,Con trai tỷ phú Phạm Nhật Vượng chính thức sở hữu cổ phiếu Vingroup,CafeF,2023-12-22 18:47:00
+6,VIC,43150.0,-50.0,-0.001,-0.013,0.027,11028676,"VIC:  Báo cáo kết quả giao dịch cổ phiếu ESOP của Người nội bộ Nguyễn Thị Thu Hiền, Phạm Thu Hương, Phạm Thúy Hằng, Phạm Văn Khương",HOSE,2023-12-22 17:56:00
+7,VIC,43150.0,-50.0,-0.001,-0.013,0.027,11028678,"VIC:  Báo cáo kết quả giao dịch cổ phiếu ESOP của Người nội bộ Dương Thị Hoàn, Mai Hương Nội, Nguyễn Diệu Linh, Nguyễn Thế Anh, Nguyễn Việt Quang",HOSE,2023-12-22 17:56:00
+8,VIC,43150.0,-50.0,-0.001,-0.013,0.027,11028679,VIC:  Báo cáo kết quả phát hành cổ phiếu ESOP,HOSE,2023-12-22 17:49:00
+9,VIC,43150.0,-50.0,-0.001,-0.013,0.027,11028677,"VIC:  Báo cáo kết quả giao dịch cổ phiếu ESOP của người có liên quan đến Người nội bộ Phạm Nhật Quân Anh, Dương Thị Hằng, Mai Thu Thủy, Nguyễn Quốc Thành, Phạm Hồng Linh",HOSE,2023-12-22 17:33:00
