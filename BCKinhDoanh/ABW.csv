@@ -1,0 +1,11 @@
+index,ticker,revenue,yearRevenueGrowth,quarterRevenueGrowth,costOfGoodSold,grossProfit,operationExpense,operationProfit,yearOperationProfitGrowth,quarterOperationProfitGrowth,interestExpense,preTaxProfit,postTaxProfit,shareHolderIncome,yearShareHolderIncomeGrowth,quarterShareHolderIncomeGrowth,investProfit,serviceProfit,otherProfit,provisionExpense,operationIncome,ebitda
+2023-Q3,ABW,95,,0.459,-28,66,-19,47,,0.839,-14,35,28,28,,1.427,,,,,,48.0
+2023-Q2,ABW,65,-0.361,0.04,-21,44,-18,26,-0.527,-0.224,-14,14,11,11,-0.609,-0.407,,,,,,27.0
+2023-Q1,ABW,62,,-0.281,-11,52,-19,33,,0.149,-13,25,19,19,,0.656,,,,,,34.0
+2022-Q4,ABW,87,,,-34,53,-24,29,,,-12,17,12,12,,,,,,,,30.0
+2022-Q2,ABW,102,,,-32,69,-15,54,,,-23,32,29,29,,,,,,,,
+2017-Q2,ABW,20,0.01,,-7,13,-9,4,-0.541,,0,4,4,4,-0.508,,,,,,,
+2016-Q4,ABW,34,,0.548,-12,22,-10,12,,1.038,0,12,10,10,,0.615,,,,,,
+2016-Q3,ABW,22,,0.099,-8,14,-8,6,,-0.374,0,8,6,6,,-0.31,,,,,,
+2016-Q2,ABW,20,,0.162,-3,18,-8,10,,2.915,0,10,9,9,,3.389,,,,,,11.0
+2016-Q1,ABW,17,,,-7,10,-8,2,,,0,3,2,2,,,,,,,,4.0

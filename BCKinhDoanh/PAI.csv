@@ -1,0 +1,10 @@
+index,ticker,revenue,yearRevenueGrowth,quarterRevenueGrowth,costOfGoodSold,grossProfit,operationExpense,operationProfit,yearOperationProfitGrowth,quarterOperationProfitGrowth,interestExpense,preTaxProfit,postTaxProfit,shareHolderIncome,yearShareHolderIncomeGrowth,quarterShareHolderIncomeGrowth,investProfit,serviceProfit,otherProfit,provisionExpense,operationIncome,ebitda
+2016-Q4,PAI,18,,-0.298,-15,4,-3,1,,0.207,0,1,1,1,,0.231,,,,,,1.0
+2016-Q3,PAI,26,0.833,0.461,-21,5,-4,1,-0.507,-0.592,0,1,1,1,-0.503,-0.559,,,,,,0.0
+2016-Q2,PAI,18,0.692,-0.032,-13,5,-4,1,4.787,1.253,0,2,1,1,2.491,1.448,,,,,,1.0
+2016-Q1,PAI,18,0.095,,-15,4,-3,1,0.077,,0,1,1,1,-0.154,,,,,,,1.0
+2015-Q3,PAI,14,0.204,0.35,-10,4,-3,1,5.424,3.784,0,1,1,1,6.376,2.099,,,,,,1.0
+2015-Q2,PAI,10,-0.325,-0.374,-7,3,-3,0,-0.644,-0.581,0,0,0,0,-0.521,-0.407,,,,,,0.0
+2015-Q1,PAI,17,,,-13,4,-3,1,,,0,1,1,1,,,,,,,,
+2014-Q3,PAI,12,,-0.244,-8,4,-4,0,,-0.735,0,0,0,0,,-0.799,,,,,,
+2014-Q2,PAI,16,,,-11,5,-4,1,,,0,1,1,1,,,,,,,,

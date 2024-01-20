@@ -1,0 +1,11 @@
+,ticker,price,priceChange,priceChangeRatio,priceChangeRatio1W,priceChangeRatio1M,id,title,source,publishDate
+0,SSB,23100,50,0.002,-0.015,0.022,11054709,SSB:  Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Lê Tuấn Anh,HOSE,2024-01-19 16:40:00
+1,SSB,23100,50,0.002,-0.015,0.022,11054754,SSB:  Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Nguyễn Thị Nga,HOSE,2024-01-19 16:37:00
+2,SSB,23050,100,0.004,-0.015,0.02,11050904,SSB:  Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công đoàn SSB hội sở,HOSE,2024-01-17 10:03:00
+3,SSB,23450,150,0.006,-0.021,0.035,11043139,"SSB:  Thông báo ngày ĐKCC lấy ý kiến cổ đông bằng văn bản và thực hiện quyền đề cử, ứng cử Thành viên HĐQT, BKS nhiệm kỳ 2023-2028",HOSE,2024-01-09 09:53:00
+4,SSB,23450,150,0.006,-0.021,0.035,11043140,SSB:  Thông báo hủy ngày ĐKCC  để thực hiện quyền lấy ý kiến cổ đông bằng văn bản tại thông báo 1985/TB-SGDHCM ngày 14/12/2023,HOSE,2024-01-09 09:51:00
+5,SSB,23900,250,0.011,0.058,0.037,11035539,SSB:  Thông báo thay đổi địa điểm đăng ký hoạt động của CN Láng Hạ,HOSE,2023-12-29 17:56:00
+6,SSB,23900,250,0.011,0.058,0.037,11035520,SSB:  Nghị quyết HĐQT về việc thông qua một số  vấn đề liên quan đến lấy ý kiến cổ đông bằng văn bản,HOSE,2023-12-29 17:41:00
+7,SSB,23900,250,0.011,0.058,0.037,11035506,SSB:  Nghị quyết HĐQT về việc thông qua giao dịch với người có liên quan,HOSE,2023-12-29 17:40:00
+8,SSB,23650,1000,0.044,0.046,0.026,11033849,SSB:  Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công đoàn SSB,HOSE,2023-12-28 16:50:00
+9,SSB,22700,50,0.002,0.004,-0.015,11031299,SSB:  Mẹ Phó Chủ tịch HĐQT đăng ký mua 5 triệu cổ phiếu,HOSE,2023-12-26 17:07:00

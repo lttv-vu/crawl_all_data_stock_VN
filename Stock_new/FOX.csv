@@ -1,0 +1,11 @@
+,ticker,price,priceChange,priceChangeRatio,priceChangeRatio1W,priceChangeRatio1M,id,title,source,publishDate
+0,FOX,55400,400,0.007,0.004,0.086,11053000,FOX: Thay đổi người công bố thông tin,HNX,2024-01-18 17:23:00
+1,FOX,55400,400,0.007,0.004,0.086,11053222,FOX: Thay đổi người công bố thông tin,HNX,2024-01-18 17:23:00
+2,FOX,51800,600,0.012,-0.004,-0.002,11035514,FOX: Thay đổi giấy đăng ký kinh doanh,HNX,2023-12-29 17:41:00
+3,FOX,51000,-100,-0.002,0.006,0.008,11023383,FOX: Nghị quyết Hội đồng quản trị,HNX,2023-12-18 10:41:00
+4,FOX,51100,0,0.0,0.004,-0.012,11022435,"FOX: Ngày 27/12/2023, Thông báo ngày giao dịch đầu tiên đăng ký giao dịch bổ sung MCK FOX",HNX,2023-12-15 16:22:00
+5,FOX,51000,300,0.006,-0.002,0.004,11017757,FOX: Quyết định chấp thuận thay đổi ĐKGD cổ phiếu của CTCP Viễn thông FPT-FOX,HNX,2023-12-12 08:46:00
+6,FOX,51100,-900,-0.017,-0.004,0.065,11011887,FOX: FPT Telecom thông báo phát hành cổ phiếu trả cổ tức,HNX,2023-12-05 16:28:00
+7,FOX,51300,600,0.012,0.004,0.118,11005850,FOX: Nghị quyết Hội đồng quản trị,HNX,2023-11-28 16:47:00
+8,FOX,51300,600,0.012,0.004,0.118,11005858,FOX: Thông báo của UBCKNN về việc nhận được tài liệu báo cáo kết quả phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu của CTCP Viễn thông FPT,HNX,2023-11-28 16:35:00
+9,FOX,51300,600,0.012,0.004,0.118,11005861,FOX: Thông báo của UBCKNN về việc nhận đủ tài liệu báo cáo phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu của CTCP Viễn thông FPT,HNX,2023-11-28 16:32:00
